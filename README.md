@@ -1,6 +1,6 @@
 # Design and Optimization of Spiral Cladding Photonic Crystal Fiber Based Sensor for Gas Sensing Applications
 
-Publication URL: https://ieeexplore.ieee.org/document/8436618
+# https://ieeexplore.ieee.org/document/8436618
 
 Description:
 
